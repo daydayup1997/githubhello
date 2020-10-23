@@ -4,4 +4,6 @@ lishi  我也能提交？ Can I?
 lishi  我还能提交？ Can I?
 lishi  现在才是李四提交的
 lishi 李四改的
+zhangsan  我改了，等你冲突
 lishi 我来试试会不会冲突
+lishi 你牛，我还是冲突了
